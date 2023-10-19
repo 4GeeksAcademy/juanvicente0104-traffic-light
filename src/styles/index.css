@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.light{
+    width:130px;
+    height:130px;
+    border-radius: 65px;
+    margin: 10px;
+} 
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.active{
+    box-shadow: 0 0 50px white;
+}
